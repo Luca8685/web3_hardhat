@@ -1,0 +1,1 @@
+exports.deployConract = require("./lhl")
